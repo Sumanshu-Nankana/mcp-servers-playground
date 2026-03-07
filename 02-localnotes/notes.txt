@@ -1,0 +1,1 @@
+Hi How are you doing, I am exploring MCP. In This video we have created the local mcp server which will add the notes to the local file
