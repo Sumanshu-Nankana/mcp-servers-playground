@@ -19,7 +19,8 @@ Follow along with my step-by-step MCP tutorial series on YouTube:
 | 07 | MCP #0007 — Build Your First MCP Server in Python & Deploy to Claude Desktop     | [▶ Watch](https://youtu.be/Of5fdhWgly4) |
 | 08 | MCP #0008 - Build Your Own MCP Client in Python - Connect to Any MCP Server      | [▶ Watch](https://youtu.be/8IQe8UjKahM) |
 | 09 | MCP #0009 - Build an MCP Server That Reads Your Local Files                      | [▶ Watch](https://youtu.be/67nQVrlUE3M) |
-| 10  | MCP #0010 - Give Claude Eyes - Build a Screen Reader MCP Server in Python        | [▶ Watch](https://youtu.be/91MNsV54wyg) |
+| 10 | MCP #0010 - Give Claude Eyes - Build a Screen Reader MCP Server in Python        | [▶ Watch](https://youtu.be/91MNsV54wyg) |
+| 11 | MCP #0011 - Connect Claude to Any API - Build a Crypto Price MCP Server        | [▶ Watch](https://youtu.be/9dmzvHOs2VY) |
 
 
 
