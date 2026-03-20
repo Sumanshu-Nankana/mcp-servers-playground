@@ -12,4 +12,4 @@ wheels/
 
 # Environment Files
 .env
-/05-websearch/.env
+/websearch_05/.env
