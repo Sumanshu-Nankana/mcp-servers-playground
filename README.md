@@ -23,8 +23,9 @@ Follow along with my step-by-step MCP tutorial series on YouTube:
 | 11 | MCP #0011 - Connect Claude to Any API - Build a Crypto Price MCP Server          | [▶ Watch](https://youtu.be/9dmzvHOs2VY) |
 | 12 | MCP #0012 - Create a Web Search MCP Server - Connect Claude to Groq AI           | [▶ Watch](https://youtu.be/6v9N1LcWlC8) |
 | 13 | MCP #0013 - Create MCP Tools with Pydantic Models - Beyond Simple Parameters     | [▶ Watch](https://youtu.be/bHOQ1ML3sjs) |
-| 13 | MCP #0014 - Create MCP Servers with Prompts in Python     | [▶ Watch](https://youtu.be/nfWZOAmyF68) |
-| 13 | MCP #0015 - Create an MCP Server with Resources and Resource Templates     | [▶ Watch](https://youtu.be/i1sk8OPcdd0) |
+| 14 | MCP #0014 - Create MCP Servers with Prompts in Python                            | [▶ Watch](https://youtu.be/nfWZOAmyF68) |
+| 15 | MCP #0015 - Create an MCP Server with Resources and Resource Templates           | [▶ Watch](https://youtu.be/i1sk8OPcdd0) |
+| 16 | MCP #0016 - Package and Deploy Your MCP Server to GitHub - Anyone Can Run It          | [▶ Watch](https://youtu.be/8e5iIJGz81E) |
 
 
 
