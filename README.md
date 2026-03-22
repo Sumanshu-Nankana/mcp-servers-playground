@@ -26,6 +26,7 @@ Follow along with my step-by-step MCP tutorial series on YouTube:
 | 14 | MCP #0014 - Create MCP Servers with Prompts in Python                            | [▶ Watch](https://youtu.be/nfWZOAmyF68) |
 | 15 | MCP #0015 - Create an MCP Server with Resources and Resource Templates           | [▶ Watch](https://youtu.be/i1sk8OPcdd0) |
 | 16 | MCP #0016 - Package and Deploy Your MCP Server to GitHub - Anyone Can Run It          | [▶ Watch](https://youtu.be/8e5iIJGz81E) |
+| 17 | MCP # 0017 # Build a Remote MCP Server with Streamable HTTP Transport          | [▶ Watch](https://youtu.be/xfjWeNfz3q8) |
 
 
 
