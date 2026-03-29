@@ -27,6 +27,9 @@ Follow along with my step-by-step MCP tutorial series on YouTube:
 | 15 | MCP #0015 - Create an MCP Server with Resources and Resource Templates           | [▶ Watch](https://youtu.be/i1sk8OPcdd0) |
 | 16 | MCP #0016 - Package and Deploy Your MCP Server to GitHub - Anyone Can Run It          | [▶ Watch](https://youtu.be/8e5iIJGz81E) |
 | 17 | MCP # 0017 # Build a Remote MCP Server with Streamable HTTP Transport          | [▶ Watch](https://youtu.be/xfjWeNfz3q8) |
+| 18 | MCP # 0018 # Deploy Your MCP Server to a Virtual Machine - Connect Claude from Windows to Ubuntu          | [▶ Watch](https://youtu.be/2yoEytEFA6s) |
+| 19 | MCP # 0019 # MCP Client Deep Dive - List and Call Tools, Resources, Templates and Prompts          | [▶ Watch](https://youtu.be/I2jvaNWWvjU) |
+| 20 | MCP # 0020 # Build an AI-Powered MCP Host in Python - Let the LLM Decide Which Tool to Call          | [▶ Watch](https://youtu.be/EGvqrLM8n0k) |
 
 
 
