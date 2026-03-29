@@ -62,6 +62,8 @@ async def run(query):
                 model="llama-3.3-70b-versatile",
             )
 
+            # LLM is stateless, so we need to feed all conversation history and sent
+            # it every time
             messages.append(response.choices[0].message)
 
             if response.choices[0].message.tool_calls:
