@@ -13,3 +13,6 @@ wheels/
 # Environment Files
 .env
 /websearch_05/.env
+
+# Db File
+/projects/01-memory-mcp/memory_mcp/memory_store/
